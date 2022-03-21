@@ -11,4 +11,4 @@
 Screenshots:
 
 ![](leads.png)
-![](leads.png)
+![](btc.png)
