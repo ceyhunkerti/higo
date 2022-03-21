@@ -7,3 +7,8 @@
 
 - frontend: goto `web` folder and run `npm run dev`
 - backend: in repo root run `python manage.py`
+
+Screenshots:
+
+![](leads.png)
+![](leads.png)
